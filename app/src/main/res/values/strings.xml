@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Crypto Cart</string>
+    <string name="loginText">Login:   </string>
+    <string name="passText">Password:</string>
+    <string name="loginButton">Login</string>
+    <string name="registerButton">Register</string>
+    <string name="errorLogin">Incorrect password or login</string>
+    <string name="nameReg">Nickname</string>
+    <string name="back">Back</string>
+
+    <string name="home">Home</string>
+    <string name="buy">Buy Krypto</string>
+    <string name="history">History</string>
+    <string name="sell">Sell Krypto</string>
+    <string name="settings">Settings</string>
+    <string name="buttonHistory">History</string>
+    <string name="buttonBuy">Buy</string>
+    <string name="buttonSell">Sell</string>
+    <string name="buttonExit">Exit</string>
+    <string name="errorName">This name is already taken</string>
+    <string-array name="spinner">
+        <item>Bitcoin BTC</item>
+        <item>Ethereum ETH</item>
+        <item>Ethereum Classic ETC</item>
+        <item>Tether USDT</item>
+    </string-array>
+    <string name="q">Hello</string>
+    <string name="uHave">You  have: %1$s</string>
+    <string name="logOut">Log out</string>
+    <string name="selectCrypt">Select name of the crypt in list</string>
+    <string name="countCrypt">Write count Crypto</string>
+    <string name="priceView">"Write price  Crypto "</string>
+    <string name="badDane">Incorect input</string>
+    <string name="ok">Crypto add to your Cart</string>
+    <string name="bad">Crypto not add to Cart</string>
+    <string name="profit">Calculate</string>
+    <string name="errorCount">" You don't have that much"</string>
+    <string name="profitView">You\'r profit: %1$s</string>
+    <string name="sellCryptoOk">You sell u\'r Crypto</string>
+    <string name="sellCryptoBad">Some problem with transaktion</string>
+
+</resources>

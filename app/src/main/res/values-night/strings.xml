@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="selectCrypt">Select name of the crypt in list</string>
+    <string name="countCrypt">Write count Crypto</string>
+    <string name="ok">Crypto add to your Cart</string>
+</resources>

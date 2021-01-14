@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crypto Cart</string>
+    <string name="loginText">Логін:</string>
+    <string name="passText">Пароль:</string>
+    <string name="loginButton">Логін</string>
+    <string name="registerButton">Реєстрація</string>
+    <string name="errorLogin">Не правильний пароль або логін</string>
+    <string name="nameReg">Нікнейм</string>
+    <string name="back">Назад</string>
+    <string name="home">Головна</string>
+    <string name="buy">Купити Крипту</string>
+    <string name="history">Історія</string>
+    <string name="sell">Продати Крипту</string>
+    <string name="settings">Налаштування</string>
+    <string name="buttonHistory">Історія</string>
+    <string name="buttonBuy">Купити</string>
+    <string name="buttonSell">Продати</string>
+    <string name="buttonExit">Вихід</string>
+    <string name="errorName">Це ім\'я вже занняте</string>
+    <string-array name="spinner">
+        <item>Bitcoin BTC</item>
+        <item>Ethereum ETH</item>
+        <item>Ethereum Classic ETC</item>
+        <item>Tether USDT</item>
+    </string-array>
+    <string name="q">Привіт</string>
+    <string name="uHave">В тебе є: %1$s</string>
+    <string name="logOut">Вийти</string>
+    <string name="selectCrypt">Вибери Крипту з списку</string>
+    <string name="countCrypt">Впишіть кількість Крипти</string>
+    <string name="priceView">Впишіть ціну за Крипту</string>
+    <string name="badDane">Не правильні данні</string>
+    <string name="ok">Крипта доданна до вашого кошелька</string>
+    <string name="bad">Крипта не додана до вашого кошелька</string>
+    <string name="profit">Вирахувати</string>
+    <string name="errorCount">У тебе немає стільки</string>
+    <string name="profitView">Твой профит: %1$s</string>
+    <string name="sellCryptoOk">Ти продав Криптовалюту</string>
+    <string name="sellCryptoBad">Проблеми с транзакція</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crypto Cart</string>
+    <string name="loginText">"Login:   "</string>
+    <string name="passText">Hasło:</string>
+    <string name="loginButton">Załoguj się</string>
+    <string name="registerButton">Rejestracja</string>
+    <string name="errorLogin">Nie prawidłowo podany hasło lub login</string>
+    <string name="nameReg">Imie:</string>
+    <string name="back">Cofnij</string>
+    <string name="home">Główna</string>
+    <string name="buy">Zakup Kryptowaluty</string>
+    <string name="history">Istoria</string>
+    <string name="sell">Sprzedaj Kryptowaluty</string>
+    <string name="settings">Ustawienia</string>
+    <string name="buttonHistory">Istoria</string>
+    <string name="buttonBuy">Kup</string>
+    <string name="buttonSell">Sprzedaj</string>
+    <string name="buttonExit">Wyłoguj się</string>
+    <string name="errorName">To imię już jest zajęte</string>
+    <string-array name="spinner">
+        <item>Bitcoin BTC</item>
+        <item>Ethereum ETH</item>
+        <item>Ethereum Classic ETC</item>
+        <item>Tether USDT</item>
+    </string-array>
+    <string name="q">Cześć</string>
+    <string name="uHave">Wy macie: %1$s</string>
+    <string name="selectCrypt">Wybierz nazwę Krypty z listy</string>
+    <string name="countCrypt">Wpisz ilość Krypty</string>
+    <string name="priceView">"Wpisz cenę Krypty "</string>
+    <string name="badDane">Nie poprawne dane</string>
+    <string name="ok">Krypta dodana do twojego Kosza</string>
+    <string name="bad">Krypta  nie  dodana do twojego Kosza</string>
+    <string name="profit">Wylicz</string>
+    <string name="errorCount">Ty nie masz tyle</string>
+    <string name="profitView">Twój profit: %1$s</string>
+    <string name="sellCryptoOk">Ty sprzedałeś Crypto</string>
+    <string name="sellCryptoBad">Problemy z transakcją</string>
+    <string name="logOut">Wyłoguj się</string>
+</resources>
